@@ -158,7 +158,7 @@ spmtwam.ko
 mtk_disp_sec.ko
 ft3519_common.ko
 aw862xx_haptic.ko
-pn553.ko
+nfc_i2c.ko
 aw87xxx_main.ko
 snd-soc-fsm.ko
 transsion_tranlog.ko
